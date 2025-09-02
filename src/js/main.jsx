@@ -22,6 +22,3 @@ setInterval(() => {
 )
   seconds ++;
 }, 1000);
-
-
-
